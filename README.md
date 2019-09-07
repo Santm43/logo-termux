@@ -1,2 +1,2 @@
 # logo-termux
-kumpulan logo² OS
+Source Code Percantik Tampilan Termux
